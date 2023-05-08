@@ -1,8 +1,8 @@
 # Estrutura de Dados 
 
 Bem-vindo ao repositório da matéria de Estrutura de Dados. Aqui você encontrará todos os exercícios e projetos desenvolvidos durante o curso.
-3ºSemestre - ESPM
-Profº Selmini
+<br /> 3ºSemestre - ESPM
+<br /> Profº Selmini
 
 ## Arquivo externo
 
